@@ -15,9 +15,9 @@ Este laboratorio se centra en realizar un analisis exploratorio y regresion line
 - quickda
 
 ### Uso
-'''
-Correr archivo(s) de Python/Jupyter Notebook en un IDE.
-'''
+```
+Correr archivo de Python / Jupyter Notebook en un IDE 
+```
 
 ## Autores
 👤 Andres de la Roca  
