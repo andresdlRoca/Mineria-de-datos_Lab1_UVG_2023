@@ -2,7 +2,7 @@
 ## Seccion 20
 ### Grupo 3: Andrés de la Roca y Jun Woo Lee
 
-Este laboratorio se centra en realizar un analisis exploratorio y regresion lineal sobre un conjunto de datos extraidos de: <a href="https://www.baseball-reference.com/">.
+Este laboratorio se centra en realizar un analisis exploratorio y regresion lineal sobre un conjunto de datos extraidos de: <a href="https://www.baseball-reference.com/">baseball-reference.com<a/>
 
 ### Prerequisitos
 - Jupyter Notebook
